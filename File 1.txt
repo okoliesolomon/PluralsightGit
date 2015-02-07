@@ -1,3 +1,5 @@
 This is file 1 in master branch.
 
 More changes
+
+new change for version 2
